@@ -1,0 +1,24 @@
+AI-Resume-Maker/
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│   ├── .env
+│   └── firebase-config.js
+├── frontend/
+│   ├── public/
+│   │   └── index.html
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Login.js
+│   │   │   ├── Home.js
+│   │   │   ├── ResumeTypeSelector.js
+│   │   │   ├── ProfessionSelector.js
+│   │   │   ├── QuestionFlow.js
+│   │   │   ├── PhotoUpload.js
+│   │   │   ├── ResumePreview.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   ├── firebase-config.js
+│   │   └── styles.css
+│   └── package.json
+└── README.md
